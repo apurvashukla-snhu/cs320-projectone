@@ -1,1 +1,3 @@
-# cs320-projectoneandtwo
+CS-320 Journal
+
+I ensure that my code is secure by understanding the requirements of the program and making sure that it is up to standards. This course involved the usage of tests, which made me think of all the cases and edge cases I could think of while also checking if the testcases were having coverage of the entire program. I incorporate user needs by breaking down what is needed, then incorporating it step-by-step into the program and ensuring that all the requirements are securely implemented and that they work accordingly. I design software by first designing the flow of the program, working on the smaller parts first, then joining them together to make a bigger program that works together.
